@@ -1,0 +1,10 @@
+>ref|NT_033778.4|:24525660-24530091 Drosophila melanogaster chromosome 2R
+>ref|NT_033778.4|:24525660-24530091 Drosophila melanogaster chromosome 2R
+>ref|NC_045543.1|:16971900-17037773 Thamnophis elegans isolate rThaEle1 chromosome 3, rThaEle1.pri, whole genome shotgun sequence
+>ref|NT_033777.3|:c13043160-13039773 Drosophila melanogaster chromosome 3R
+>ref|NT_078266.2|:c54413838-54404693 Anopheles gambiae str. PEST chromosome 2R, whole genome shotgun sequence
+>ref|NT_078266.2|:40688490-40690350 Anopheles gambiae str. PEST chromosome 2R, whole genome shotgun sequence
+>NC_009330.1 Mauremys mutica mitochondrion, complete genome
+>ref|NT_078267.5|:3574836-3577818 Anopheles gambiae str. PEST chromosome 3L, whole genome shotgun sequence
+>NC_030369.1 Dopasia gracilis isolate RE13001 mitochondrion, complete genome
+>NC_000845.1 Sus scrofa mitochondrion, complete genome
