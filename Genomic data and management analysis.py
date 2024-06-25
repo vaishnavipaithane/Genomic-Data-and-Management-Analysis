@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 10 16:32:57 2024
-
-@author: vaish
-"""
 ##Data Sorting and Extraction
 
 import os
